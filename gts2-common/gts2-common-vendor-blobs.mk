@@ -36,6 +36,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts2-common/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/gts2-common/proprietary/lib/hw/camera.universal5433.so:system/lib/hw/camera.universal5433.so \
     vendor/samsung/gts2-common/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
+    vendor/samsung/gts2-common/proprietary/lib/libexynosv4l2.so:system/lib/libexynosv4l2.so \
     vendor/samsung/gts2-common/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/gts2-common/proprietary/lib/libsensorlistener.so:system/lib/libsensorlistener.so \
     vendor/samsung/gts2-common/proprietary/lib/libvdis.so:system/lib/libvdis.so \
